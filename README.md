@@ -23,3 +23,7 @@ This is a standalone Python module. Simply download the `model.py` file and incl
 
 ```python
 from multilevelmodel.model import MultiLevelModel
+```
+
+## Example
+<img width="1162" height="640" alt="image" src="https://github.com/user-attachments/assets/0fc01323-0a52-46c7-bc4b-94479e5d2b5a" />
